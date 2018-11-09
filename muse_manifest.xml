@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sideralia.com" resolutions="1x" timestamp="1541741083271">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sideralia.com" resolutions="1x" timestamp="1541741299912">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="80777771" ref="index"/>
@@ -33,7 +33,7 @@
     <file name="menu-02.png" crc="426072575" seo="true" ref="index:nosotros:el-salar-de-uyuni"/>
     <file name="logo final sideralia-01.png" crc="3837931641" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4137423993" seo="true" mt="1541740220958" redirect="true"/>
-  <file name="nosotros.html" crc="42765806" seo="true" mt="1541740220958" redirect="true"/>
-  <file name="el-salar-de-uyuni.html" crc="98007901" seo="true" mt="1541740220958" redirect="true"/>
+  <file name="index.html" crc="4137423993" seo="true" mt="1541741282456" redirect="true"/>
+  <file name="nosotros.html" crc="42765806" seo="true" mt="1541741282456" redirect="true"/>
+  <file name="el-salar-de-uyuni.html" crc="98007901" seo="true" mt="1541741282456" redirect="true"/>
 </manifest>
